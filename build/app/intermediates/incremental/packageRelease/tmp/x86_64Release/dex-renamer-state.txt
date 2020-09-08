@@ -1,0 +1,4 @@
+#Wed Sep 09 00:18:02 BDT 2020
+base.0=/home/dedsec/Documents/Android Practice/r_b_music_player/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
